@@ -26,5 +26,6 @@ public class DateExtensionTests
         var( _, _, year) = birthDay;
         
         Assert.Equal(1969, year);
+        // Tada!
     }
 }
